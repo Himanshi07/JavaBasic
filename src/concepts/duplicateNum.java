@@ -10,7 +10,7 @@ public class duplicateNum {
 	public static void main(String args[])
 	{
 	
-	int[] a= {3,2,5,3,2,1,3,2,3};
+	//int[] a= {3,2,5,3,2,1,3,2,3};
 			
 	
 	/* for(int i=0; i<a.length-1; i++)
