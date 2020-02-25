@@ -2,6 +2,7 @@ package concepts;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 import java.util.Set;
 
 public class duplicateNum {
@@ -10,6 +11,7 @@ public class duplicateNum {
 	{
 	
 	int[] a= {3,2,5,3,2,1,3,2,3};
+			
 	
 	/* for(int i=0; i<a.length-1; i++)
    {
